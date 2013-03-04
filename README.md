@@ -1,5 +1,5 @@
 # Rint.template.based
-I'm not good at English.... Sorry....
+Under Development.
 
 ## project composition
 
@@ -248,7 +248,7 @@ exports.active = function (app, db) {
       })
     })
 }
-``
+```
 
 ## rint-property about supporting the project.
 

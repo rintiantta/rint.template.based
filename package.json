@@ -1,0 +1,22 @@
+{
+  "name": "rtb",
+  "author": "rintiantta<rintiantta@naver.com>",
+  "version": "0.0.10",
+  "description": "rint template based",
+  "main": "./lib/index.js",
+  "preferGlobal": "true",
+  "bin": { "rtb": "./bin/rtb" },
+  "dependencies": {
+    "cheerio": "~0.10.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rintiantta/rint.template.based"
+  },
+  "license": "BSD"
+}
